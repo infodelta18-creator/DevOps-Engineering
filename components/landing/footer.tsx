@@ -13,11 +13,9 @@ const navigationLinks = [
 ];
 
 const socialLinks = [
-  { icon: <FaGithub className="h-4 w-4 sm:h-5 sm:w-5" />, href: "https://github.com/NotHarshhaa", label: "GitHub" },
-  { icon: <FaTelegram className="h-4 w-4 sm:h-5 sm:w-5" />, href: "https://t.me/NotHarshhaa", label: "Telegram" },
-  { icon: <FaLinkedin className="h-4 w-4 sm:h-5 sm:w-5" />, href: "https://linkedin.com/in/harshhaa-vardhan-reddy", label: "LinkedIn" },
-  { icon: <FaGlobe className="h-4 w-4 sm:h-5 sm:w-5" />, href: siteConfig.links.portfolio, label: "Portfolio" },
-  { icon: <MdEmail className="h-4 w-4 sm:h-5 sm:w-5" />, href: "mailto:contact@devops-engineering.xyz", label: "Email" },
+  { icon: <FaTelegram className="h-4 w-4 sm:h-5 sm:w-5" />, href: "", label: "Telegram" },
+  { icon: <FaLinkedin className="h-4 w-4 sm:h-5 sm:w-5" />, href: "", label: "LinkedIn" },
+  { icon: <MdEmail className="h-4 w-4 sm:h-5 sm:w-5" />, href: "mailto: netlivyteam@gmail.com", label: "Email" },
 ];
 
 const Footer = () => {
@@ -44,7 +42,7 @@ const Footer = () => {
                   </span>
                 </div>
                 <p className="text-xs text-muted-foreground sm:text-sm">
-                  DevOps Engineering Playground
+                  DevOps Engineering by Netlivy 
                 </p>
               </div>
             </div>
