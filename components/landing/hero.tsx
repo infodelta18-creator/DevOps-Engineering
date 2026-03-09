@@ -88,7 +88,7 @@ const HeroTitle = () => {
 
         <div className="mt-4 sm:mt-6 w-full text-center text-sm sm:text-base">
           <p>
-            🌍 Open Learning and <span className="font-semibold">🌱 Open Source</span>
+            🌍 Open Learning and <span className="font-semibold">🌱 Explore Netlivy</span>
           </p>
         </div>
 
