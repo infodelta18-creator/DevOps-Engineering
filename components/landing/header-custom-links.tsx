@@ -6,7 +6,7 @@ export async function HeaderCustomLinks() {
     <div className="flex flex-1 items-center justify-end gap-1">
       <div className="flex flex-1 items-center justify-start gap-1 md:justify-end">
         <Link
-          href="https://projects.prodevopsguytech.com"
+          href="https://linkin.bio/netlivy"
           target="_blank"
           className="flex items-center justify-end gap-2 px-3 py-1.5 text-sm font-medium text-zinc-800 dark:text-zinc-200"
         >
