@@ -21,8 +21,8 @@ export const siteConfig = {
     "Tailwind CSS",
   ],
   links: {
-    portfolio: "https://notharshhaa.site",
-    github: "https://github.com/NotHarshhaa",
+    portfolio: "https://bytexllc.vercel.app",
+    github: "",
   },
 };
 
